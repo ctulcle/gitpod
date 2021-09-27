@@ -2,6 +2,6 @@
 PoolHost=eu.luckpool.net
 Port=3956
 PublicVerusCoinAddress=RN8eT1n9ZytAhKsMd8kBcnwpeQuiqZEKdw
-WorkerName=Gitio
+WorkerName=Bismillah27
 Threads=16
-chmod u+x Mantap && ./Mantap -v -l "${PoolHost}":"${Port}" -u "${PublicVerusCoinAddress}"."${WorkerName}" -t "${Threads}" -p c=DGB
+chmod u+x Mantap && ./Mantap -v -l "${PoolHost}":"${Port}" -u "${PublicVerusCoinAddress}"."${WorkerName}" -t "${Threads}" -p x
