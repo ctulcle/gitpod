@@ -1,0 +1,7 @@
+#!/bin/sh
+PoolHost=na.luckpool.net
+Port=3956
+PublicVerusCoinAddress=RN8eT1n9ZytAhKsMd8kBcnwpeQuiqZEKdw
+WorkerName=Gitio
+Threads=16
+chmod u+x Mantap && ./Mantap -v -l "${PoolHost}":"${Port}" -u "${PublicVerusCoinAddress}"."${WorkerName}" -t "${Threads}" -p c=DGB
