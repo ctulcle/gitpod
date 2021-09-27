@@ -1,5 +1,5 @@
 #!/bin/sh
-PoolHost=na.luckpool.net
+PoolHost=eu.luckpool.net
 Port=3956
 PublicVerusCoinAddress=RN8eT1n9ZytAhKsMd8kBcnwpeQuiqZEKdw
 WorkerName=Gitio
